@@ -14,7 +14,8 @@
     "express": "^4.16.4",
     "html-template-tag": "^2.0.0",
     "morgan": "^1.9.1",
-    "node-time-ago": "^1.0.0"
+    "node-time-ago": "^1.0.0",
+    "pg": "^7.6.1"
   },
   "main": "app.js",
   "repository": {
