@@ -31,6 +31,10 @@ header {
   height: 26px;
 }
 
+header > a {
+  color: #fff;
+}
+
 header > img {
   margin-right: 10px;
   width: 20px;
@@ -46,7 +50,7 @@ form {
 label {
   float: left;
   width: 60px;
-  
+
 }
 
 input {
